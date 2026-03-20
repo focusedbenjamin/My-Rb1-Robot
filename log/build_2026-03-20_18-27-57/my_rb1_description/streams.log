@@ -1,0 +1,36 @@
+[1.105s] Invoking command in '/home/user/ros2_ws/src/my_rb1_robot/my_rb1_description': PYTHONPATH=/home/user/ros2_ws/build/my_rb1_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/ros2_ws/install/my_rb1_description/lib/python3.12/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/my_rb1_description build --build-base /home/user/ros2_ws/build/my_rb1_description/build install --record /home/user/ros2_ws/build/my_rb1_description/install.log --single-version-externally-managed install_data
+[1.396s] running egg_info
+[1.396s] creating ../../../build/my_rb1_description/my_rb1_description.egg-info
+[1.414s] writing ../../../build/my_rb1_description/my_rb1_description.egg-info/PKG-INFO
+[1.415s] writing dependency_links to ../../../build/my_rb1_description/my_rb1_description.egg-info/dependency_links.txt
+[1.415s] writing requirements to ../../../build/my_rb1_description/my_rb1_description.egg-info/requires.txt
+[1.415s] writing top-level names to ../../../build/my_rb1_description/my_rb1_description.egg-info/top_level.txt
+[1.415s] writing manifest file '../../../build/my_rb1_description/my_rb1_description.egg-info/SOURCES.txt'
+[1.453s] reading manifest file '../../../build/my_rb1_description/my_rb1_description.egg-info/SOURCES.txt'
+[1.454s] writing manifest file '../../../build/my_rb1_description/my_rb1_description.egg-info/SOURCES.txt'
+[1.455s] running build
+[1.455s] running build_py
+[1.455s] creating /home/user/ros2_ws/build/my_rb1_description/build
+[1.455s] creating /home/user/ros2_ws/build/my_rb1_description/build/lib
+[1.455s] creating /home/user/ros2_ws/build/my_rb1_description/build/lib/my_rb1_description
+[1.455s] copying my_rb1_description/__init__.py -> /home/user/ros2_ws/build/my_rb1_description/build/lib/my_rb1_description
+[1.456s] running install
+[1.461s] running install_lib
+[1.480s] creating /home/user/ros2_ws/install/my_rb1_description/lib/python3.12/site-packages/my_rb1_description
+[1.480s] copying /home/user/ros2_ws/build/my_rb1_description/build/lib/my_rb1_description/__init__.py -> /home/user/ros2_ws/install/my_rb1_description/lib/python3.12/site-packages/my_rb1_description
+[1.481s] byte-compiling /home/user/ros2_ws/install/my_rb1_description/lib/python3.12/site-packages/my_rb1_description/__init__.py to __init__.cpython-312.pyc
+[1.481s] running install_data
+[1.481s] creating /home/user/ros2_ws/install/my_rb1_description/share/ament_index
+[1.481s] creating /home/user/ros2_ws/install/my_rb1_description/share/ament_index/resource_index
+[1.482s] creating /home/user/ros2_ws/install/my_rb1_description/share/ament_index/resource_index/packages
+[1.482s] copying resource/my_rb1_description -> /home/user/ros2_ws/install/my_rb1_description/share/ament_index/resource_index/packages
+[1.482s] copying package.xml -> /home/user/ros2_ws/install/my_rb1_description/share/my_rb1_description
+[1.482s] creating /home/user/ros2_ws/install/my_rb1_description/share/my_rb1_description/launch
+[1.482s] copying launch/display.launch.py -> /home/user/ros2_ws/install/my_rb1_description/share/my_rb1_description/launch
+[1.483s] creating /home/user/ros2_ws/install/my_rb1_description/share/my_rb1_description/urdf
+[1.483s] copying urdf/my_rb1_robot.urdf -> /home/user/ros2_ws/install/my_rb1_description/share/my_rb1_description/urdf
+[1.483s] running install_egg_info
+[1.502s] Copying ../../../build/my_rb1_description/my_rb1_description.egg-info to /home/user/ros2_ws/install/my_rb1_description/lib/python3.12/site-packages/my_rb1_description-0.0.0-py3.12.egg-info
+[1.503s] running install_scripts
+[1.636s] writing list of installed files to '/home/user/ros2_ws/build/my_rb1_description/install.log'
+[1.666s] Invoked command in '/home/user/ros2_ws/src/my_rb1_robot/my_rb1_description' returned '0': PYTHONPATH=/home/user/ros2_ws/build/my_rb1_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/ros2_ws/install/my_rb1_description/lib/python3.12/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/my_rb1_description build --build-base /home/user/ros2_ws/build/my_rb1_description/build install --record /home/user/ros2_ws/build/my_rb1_description/install.log --single-version-externally-managed install_data
